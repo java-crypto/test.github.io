@@ -1,6 +1,8 @@
-#Cryptography#
+Cryptography
+===============
 
 ##Header style2 ##
+---------------
 
 ###Hello World, my first github Page###
 
