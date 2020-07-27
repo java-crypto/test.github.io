@@ -7,13 +7,14 @@ Header style2
 ### Hello World, my first github Page ###
 
 *This text will be italic*
+
 **This text will be bold**
 
 | Solution | Link | Java | PHP | C# |
 | ------ | ------ | :----: | :---: | :--: |
 | AES CBC 256 String Encryption | [http://javacrypto.bplaced.net](http://javacrypto.bplaced.net/) | X | X | X |
 | RSA 2048 Signature | [http://java-crypto.bplaced.net] | X | X | X |
-| RSA 2048 Encryption | [http://java-crypto.bplaced.net](http://javacrypto.bplaced.net/) | X |  | X |
+| RSA 2048 Encryption | [Encryption](http://javacrypto.bplaced.net/) | X |  | X |
 
 
 This site was built using [GitHub Pages](https://pages.github.com/).
