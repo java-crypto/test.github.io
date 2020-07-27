@@ -11,9 +11,9 @@ Header style2
 
 | Solution | Link | Java | PHP | C# |
 | ------ | ------ | :----: | :---: | :--: |
-| AES CBC 256 String encryption | [http://javacrypto.bplaced.net] | X | X | X |
+| AES CBC 256 String encryption | [http://javacrypto.bplaced.net] (http://javacrypto.bplaced.net) | X | X | X |
 | RSA 2048 Signature | http://java-crypto.bplaced.net | X | X | X |
-| RSA 2048 Encryption | http://java-crypto.bplaced.net | X |  | X |
+| RSA 2048 Encryption | http://java-crypto.bplaced.net [http://javacrypto.bplaced.net] | X |  | X |
 
 ---
 #### Some blockquotes ####
