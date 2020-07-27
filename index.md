@@ -25,8 +25,8 @@ Header style2
 
 ---
 
-This the code in Java:
-```java
+This is the code in Java:
+```JAVA
 private static byte[] generateRandomKey() {
     SecureRandom secureRandom = new SecureRandom();
     byte[] key = new byte[32];
@@ -35,16 +35,16 @@ private static byte[] generateRandomKey() {
 }
 ```
 
-This the code in PHP:
-```php
+This is the code in PHP:
+```PHP
 function generateRandomKey()
 {
     return openssl_random_pseudo_bytes(32, $crypto_strong);
 }
 ```
 
-This the code in C#:
-```c#
+This is the code in C#:
+```C#
 static byte[] generateRandomKey() {
     RNGCryptoServiceProvider rngCsp = new RNGCryptoServiceProvider();
     byte[] key = new byte[32];
