@@ -15,6 +15,9 @@ Header style2
 | RSA 2048 Signature | http://java-crypto.bplaced.net | X | X | X |
 | RSA 2048 Encryption | http://java-crypto.bplaced.net [http://javacrypto.bplaced.net] | X |  | X |
 
+
+This site was built using [GitHub Pages](https://pages.github.com/).
+
 ---
 #### Some blockquotes ####
 > nr 1
