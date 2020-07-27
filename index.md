@@ -1,22 +1,28 @@
 Cryptography
 ===============
 
-##Header style2 ##
+Header style2
 ---------------
 
-###Hello World, my first github Page###
+### Hello World, my first github Page ###
 
 *This text will be italic*
 **This text will be bold**
 
+| Solution | Link | Java | PHP | C# |
+| ------ | ------ | ---- | --- | -- |
+| AES CBC 256 String encryption | http://javacrypto.bplaced.net| X | X | X |
+| RSA 2048 Signature | http://java-crypto.bplaced.net | X | X | X |
+| RSA 2048 Encryption | http://java-crypto.bplaced.net | X |  | X |
+
 This the code in Java:
 ```java
-    private static byte[] generateRandomKey() {
-        SecureRandom secureRandom = new SecureRandom();
-        byte[] key = new byte[32];
-        secureRandom.nextBytes(key);
-        return  key;
-    }
+private static byte[] generateRandomKey() {
+    SecureRandom secureRandom = new SecureRandom();
+    byte[] key = new byte[32];
+    secureRandom.nextBytes(key);
+    return  key;
+}
 ```
 
 This the code in PHP:
@@ -29,12 +35,12 @@ function generateRandomKey()
 
 This the code in C#:
 ```c#
-    static byte[] generateRandomKey() {
-        RNGCryptoServiceProvider rngCsp = new RNGCryptoServiceProvider();
-        byte[] key = new byte[32];
-        rngCsp.GetBytes(key);
-        return key;
-    }
+static byte[] generateRandomKey() {
+    RNGCryptoServiceProvider rngCsp = new RNGCryptoServiceProvider();
+    byte[] key = new byte[32];
+    rngCsp.GetBytes(key);
+    return key;
+}
 ```
 
 More information in German is available in http://javacrypto.bplaced.net. Have fun !
