@@ -1,8 +1,8 @@
-#Cryptography
+#Cryptography#
 
-##Header systele2
+##Header style2 ##
 
-Hello World, my first github Page
+###Hello World, my first github Page###
 
 *This text will be italic*
 **This text will be bold**
