@@ -18,6 +18,12 @@ Header style2
 
 This site was built using [GitHub Pages](https://pages.github.com/).
 
+AES CBC 256 String encryption: http://javacrypto.bplaced.net/
+
+RSA 2048 Signature: http://java-crypto.bplaced.net
+
+RSA 2048 Encryption: [Encryption] (http://javacrypto.bplaced.net/)
+
 ---
 #### Some blockquotes ####
 > nr 1
