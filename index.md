@@ -10,10 +10,20 @@ Header style2
 **This text will be bold**
 
 | Solution | Link | Java | PHP | C# |
-| ------ | ------ | ---- | --- | -- |
-| AES CBC 256 String encryption | http://javacrypto.bplaced.net| X | X | X |
+| ------ | ------ | :----: | :---: | :--: |
+| AES CBC 256 String encryption | [http://javacrypto.bplaced.net] | X | X | X |
 | RSA 2048 Signature | http://java-crypto.bplaced.net | X | X | X |
 | RSA 2048 Encryption | http://java-crypto.bplaced.net | X |  | X |
+
+---
+#### Some blockquotes ####
+> nr 1
+
+> nr 2 and last
+
+> nr 3
+
+---
 
 This the code in Java:
 ```java
