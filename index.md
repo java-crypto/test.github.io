@@ -40,7 +40,6 @@ The website is published under: Your site is published at [https://java-crypto.g
 ---
 #### Some blockquotes ####
 > nr 1
-
 > nr 2 and last
 
 > nr 3
@@ -48,6 +47,7 @@ The website is published under: Your site is published at [https://java-crypto.g
 ---
 
 This is the code in Java:
+
 ```JAVA
 private static byte[] generateRandomKey() {
     SecureRandom secureRandom = new SecureRandom();
