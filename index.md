@@ -69,4 +69,8 @@ static byte[] generateRandomKey() {
 }
 ```
 
+```python
+s = "Python syntax highlighting"
+print s
+
 More information in German is available in http://javacrypto.bplaced.net. Have fun !
