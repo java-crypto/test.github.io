@@ -16,7 +16,7 @@ title: Cryptography in practise
 
 description: A short description of this site's purpose
 
-theme: jekyll-theme-modernist
+theme: jekyll theme modernist
 
 
 | Solution | Link | Java | PHP | C# |
