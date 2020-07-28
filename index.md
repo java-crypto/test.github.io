@@ -12,6 +12,12 @@ Header style2
 
 This text <u>will</u> be <ins>underlined</ins>, this not.
 
+title: Cryptography in practise
+
+description: A short description of this site's purpose
+
+theme: jekyll-theme-modernist
+
 
 | Solution | Link | Java | PHP | C# |
 | ------ | ------ | :----: | :---: | :--: |
