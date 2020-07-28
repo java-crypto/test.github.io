@@ -70,7 +70,14 @@ static byte[] generateRandomKey() {
 ```
 
 ```python
+
 s = "Python syntax highlighting"
 print s
+```
+
+The keygen is started with
+
+'Keygen keygen = new Keygen();'
+
 
 More information in German is available in http://javacrypto.bplaced.net. Have fun !
