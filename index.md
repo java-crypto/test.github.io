@@ -48,7 +48,7 @@ The website is published under: Your site is published at [https://java-crypto.g
 
 This is the code in Java:
 
-```JAVA
+```java
 private static byte[] generateRandomKey() {
     SecureRandom secureRandom = new SecureRandom();
     byte[] key = new byte[32];
@@ -59,7 +59,7 @@ private static byte[] generateRandomKey() {
 
 This is the code in PHP:
 
-```PHP
+```php
 function generateRandomKey()
 {
     return openssl_random_pseudo_bytes(32, $crypto_strong);
@@ -68,7 +68,7 @@ function generateRandomKey()
 
 This is the code in C#:
 
-```C#
+```c#
 static byte[] generateRandomKey() {
     RNGCryptoServiceProvider rngCsp = new RNGCryptoServiceProvider();
     byte[] key = new byte[32];
