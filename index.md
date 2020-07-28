@@ -52,6 +52,7 @@ private static byte[] generateRandomKey() {
 ```
 
 This is the code in PHP:
+
 ```PHP
 function generateRandomKey()
 {
@@ -60,6 +61,7 @@ function generateRandomKey()
 ```
 
 This is the code in C#:
+
 ```C#
 static byte[] generateRandomKey() {
     RNGCryptoServiceProvider rngCsp = new RNGCryptoServiceProvider();
@@ -70,7 +72,6 @@ static byte[] generateRandomKey() {
 ```
 
 ```python
-
 s = "Python syntax highlighting"
 print s
 ```
@@ -79,5 +80,6 @@ The keygen is started with
 
 'Keygen keygen = new Keygen();'
 
+Another way ist to end :-)
 
 More information in German is available in http://javacrypto.bplaced.net. Have fun !
