@@ -10,6 +10,9 @@ Header style2
 
 **This text will be bold**
 
+This text <u>will</u> be <ins>underlined</ins>, this not.
+
+
 | Solution | Link | Java | PHP | C# |
 | ------ | ------ | :----: | :---: | :--: |
 | AES CBC 256 String Encryption | [http://javacrypto.bplaced.net](http://javacrypto.bplaced.net/) | X | X | X |
