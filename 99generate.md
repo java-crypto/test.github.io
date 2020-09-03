@@ -37,6 +37,16 @@ encryptString(password, "string to encrypt");
 password = "";
 ```
 
+Second code:
+```java
+private static byte[] generateRandomKey() {
+    SecureRandom secureRandom = new SecureRandom();
+    byte[] key = new byte[32];
+    secureRandom.nextBytes(key);
+    return  key;
+}
+```
+
 Everything looks fine but.. the variable keeping the password was <u>not</u> deleted but is just pointing to a place with an empty string. The former value "secretPassword"
 is still available in the device memory (called the heap) and can get found by a memory scanner that is just waiting for grabbing and sending to its owner.
 
