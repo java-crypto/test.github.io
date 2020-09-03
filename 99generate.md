@@ -29,7 +29,7 @@ Try it here:
 
 So why are strings so dangerous? That's easy to answer - in a lot of programming languages strings are <u>immutable</u>. Let's see an example in Java:
 
-```Java
+```java
 string password = "secretPassword";
 ... use the password
 encryptString(password, "string to encrypt");
